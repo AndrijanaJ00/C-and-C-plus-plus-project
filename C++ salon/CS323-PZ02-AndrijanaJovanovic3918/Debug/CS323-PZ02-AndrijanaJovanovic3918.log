@@ -1,0 +1,5 @@
+﻿  Osoba.cpp
+  Salon.cpp
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+E:\2.DRUGA GODINA\2.SEMESTAR\4. CS323 - C- C++\6. Backup - CS323 - C- C++\CS323-PZ02-AndrijanaJovanovic3918\Debug\CS323-PZ02-AndrijanaJovanovic3918.exe : fatal error LNK1120: 1 unresolved externals
